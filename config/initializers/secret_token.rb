@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Weuter::Application.config.secret_token = 'fdbdc42def2bb215e30ce39e382dec3e1de67b06509665289f007bca9e1be4ac0356cd43ddf5a1e7bb6c7bd33479d17f748ae45bff95608ec6d0e4584194f5d1'
+Weuter::Application.config.secret_token = 'f11b1e77ca98433b9ee24c86d203d629c0fa152ef92366b03d04ec4e4266129500d7740685b38aafd1f5646cf0cb437d8028f8d8c7245615e0db45d19271b58e'
